@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 27px;
+width: 100%;
+margin: 0px;
+color:  black;
+font-family: monospace;
+}
+
+.image {
+    font-size: 30px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 50px;
+    color: blue;
+    font-family: cursive;
+}
